@@ -74,7 +74,7 @@ public class DefaultMainSpringClient implements MainSpringClient {
 		LOGGER.info("Rest settings.getUsername(): " + settings.getUsername());
 		LOGGER.info("MainSpringCollectorTask Start");
 		this.rest = restOperationsSupplier.get();
-		// this.castSettings = settings;
+		 this.castSettings = settings;
 
 	}
 
