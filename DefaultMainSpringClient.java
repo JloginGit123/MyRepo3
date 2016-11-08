@@ -1,6 +1,6 @@
 package com.capitalone.dashboard.collector;
 
-import java.io.IOException;
+import java.io.IOException; 
 import java.io.StringReader;
 import java.math.BigDecimal;
 import java.net.MalformedURLException;
