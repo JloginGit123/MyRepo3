@@ -86,7 +86,7 @@ public class DefaultMainSpringClient implements MainSpringClient {
 		// "https://sandboxpra.cognizant.com/axis/services/WSEformItemHandler?wsdl")
 
 		if (rest != null) {
-			LOGGER.info("instanceUrl: " + instanceUrl);
+			 //LOGGER.info("instanceUrl: " + instanceUrl);
 		}
 		MainSpringWebServiceClient mainSpringWSClient = new MainSpringWebServiceClient();
 
