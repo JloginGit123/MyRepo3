@@ -46,6 +46,7 @@ public class DefaultMainSpringClient implements MainSpringClient {
 	private static final String PRJ_URL_RESOURCES = "ProjectServiceProvider";
 	private static final String AUTH_URL_RESOURCES = "TokenServiceProvider";
 	private static final String ITEM_URL_RESOURCES = "WSEformItemHandler";
+	//test commit for hygiea
 
 	private final String UserName;
 	private final String PassWord;
